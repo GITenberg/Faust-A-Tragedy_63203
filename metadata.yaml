@@ -1,5 +1,5 @@
 _repo: Faust-A-Tragedy_63203
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Blackie, John Stuart
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '48297'
     url: http://www.gutenberg.org/2009/agents/48297
     wikipedia: https://en.wikipedia.org/wiki/John_Stuart_Blackie
+covers:
+- cover_type: archival
+  image_path: 63203-h/images/cover.jpg
 creator:
   author:
     agent_name: Goethe, Johann Wolfgang von
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
     - https://de.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63203#Faust-A-Tragedy
 gutenberg_issued: '2020-09-14'
 gutenberg_type: Text
 identifiers:
